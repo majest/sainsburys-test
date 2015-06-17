@@ -10,7 +10,7 @@ Install application dependencies
 $>pip install -r requirements.txt
 ```
 
-Install dependencies required for the unit testing and development please run
+Install dependencies required for the unit testing and development
 ```
 $>pip install -r development.txt
 ```
